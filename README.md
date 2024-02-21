@@ -10,7 +10,7 @@
 <a href="https://arxiv.org/abs/2312.12540"><img src="https://img.shields.io/badge/arXiv-2304.14530-b31b1b.svg" height=22.5></a>
 
 <p align="center">
-<img src="teaser.png" width="600px"/>  
+<img src="teaser.png" width="900px"/>  
 <br>
 
 ## Requirements
